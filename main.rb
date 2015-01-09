@@ -1,4 +1,4 @@
 def say_hello
   p "hello"
-  p "goodbye"
+  p "see you in hell"
 end
